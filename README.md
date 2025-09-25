@@ -1,1 +1,1 @@
-klaragombocz-lgtm.github.io
+klaragombocz.github.io
